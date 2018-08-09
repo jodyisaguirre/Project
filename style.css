@@ -1,0 +1,18 @@
+body
+{
+  background-image: url(/Users/jodyisaguirre/project/pictures/background.jpg);
+
+}
+.container{
+  width: 90%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.images img{
+  height: 300px;
+  width: 300px;
+
+}
